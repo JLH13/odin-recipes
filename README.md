@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project from The Odin Project where the task is to create a simple recipes website in html. This project will demonstrate skills and knowledge such as git, GitHub, command line interface, vs code, and html.
